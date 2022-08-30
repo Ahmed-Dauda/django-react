@@ -26,6 +26,13 @@ const todoItem  = [
     about: 'I am a selve taugh web developer from Nigeria..',
     passion: 'machine learning ',
     factme: 'sincerity'
+},
+{
+  id: 4,
+  name: 'mohammed',
+  about: 'I am a selve taugh web developer from Nigeria..',
+  passion: 'machine learning ',
+  factme: 'sincerity'
 }
   ]
   
