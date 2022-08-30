@@ -1,0 +1,27 @@
+.nav-img{
+  width: 50px;
+}
+.nav{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: white;
+   box-shadow: 2px 5px 2px rgba(0, 0, 0, 0.1);
+   height: 70px;
+}
+.nav-items{
+  display: flex;
+  list-style: none;
+}
+
+.nav-items > li{
+ padding: 20px;
+}
+
+.footer-items{
+  color: white;
+  background-color: black;
+}
+.content{
+  margin-left: 20px;
+}
